@@ -90,4 +90,8 @@ By default, S3 buckets are **private**. To host a public website, permissions mu
 - Copy the **Bucket website endpoint URL**.
 - Open the URL in your browser to view the hosted static website.
 
-Example:  
+Example:  http://host-demo-web.s3-website.eu-north-1.amazonaws.com
+
+
+## Website Look Like 
+<img width="1898" height="981" alt="image" src="https://github.com/user-attachments/assets/cf8961d4-5fee-4e59-befb-58616f50652a" />
